@@ -51,22 +51,6 @@ To run the web application, follow these steps:
 5. Open your web browser and go to the provided URL (typically `http://localhost:8501`).
 6. Enter the name of a city in the text input field and click the "Get Weather Forecast" button to retrieve and display the weather forecast.
 
-### Command-Line Tool
-
-To use the command-line tool, follow these steps:
-
-1. Open your Anaconda Prompt or terminal.
-2. Navigate to the project directory:
-   ```
-   cd path/to/weather-forecast-tool
-   ```
-   Replace `path/to/weather-forecast-tool` with the actual path to the project directory.
-3. Run the following command:
-   ```
-   python weather_tool.py
-   ```
-4. Follow the prompts and enter the name of a city to get the weather forecast.
-
 ## API Configuration
 
 To use the OpenWeatherMap API, you need to obtain an API key. Follow these steps:
@@ -105,4 +89,4 @@ Contributions are welcome! If you have any suggestions, improvements, or bug fix
 
 For any inquiries or questions, you can reach me at harshit2531937@gmail.com.
 
-In the "Output Images" section, replace the URLs (`https://example.com/new_york_city.png`, `https
+
