@@ -1,6 +1,6 @@
 # Weather Forecast Tool
 
-This command-line tool and web application provide the current weather forecast for a specified city. It leverages the OpenWeatherMap API to fetch weather data and displays the information such as main weather, description, temperature, humidity, wind speed, visibility, and dew point.
+This command-line tool and web application provide the current weather forecast for a specified city. It leverages the OpenWeatherMap API to fetch weather data and displays the information such as main weather, description, temperature, humidity, and wind speed.
 
 ## Features
 
