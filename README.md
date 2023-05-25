@@ -1,5 +1,4 @@
-# Weather_app-using-github-copilot
-# Weather Forecast Tool 
+# Weather Forecast Tool
 
 This command-line tool and web application provide the current weather forecast for a specified city. It leverages the OpenWeatherMap API to fetch weather data and displays the information such as main weather, description, temperature, humidity, wind speed, visibility, and dew point.
 
@@ -24,32 +23,38 @@ This command-line tool and web application provide the current weather forecast 
    cd weather-forecast-tool
    ```
 
-3. Install the required dependencies:
-   ```
-   pip install -r requirements.txt
-   ```
+## Requirements
+
+Make sure the following libraries are installed in your Python environment:
+
+- Streamlit
+- json
+- requests
+
+You can install these libraries by running the following command:
+```
+pip install streamlit json requests
+```
 
 ## Usage
 
-### Command-line Tool
-
-Run the following command to use the command-line tool:
-
-```
-python weather_tool.py
-```
-
-Enter the name of a city when prompted, and the weather forecast will be displayed in the terminal.
-
 ### Web Application
 
-Run the following command to start the web application:
+To run the web application, follow these steps:
 
-```
-streamlit run weather_app.py
-```
-
-Open the provided URL in your web browser. Enter the name of a city and click the "Get Weather Forecast" button to retrieve and display the weather forecast.
+1. Open your Anaconda Prompt or terminal.
+2. Navigate to the project directory:
+   ```
+   cd path/to/weather-forecast-tool
+   ```
+   Replace `path/to/weather-forecast-tool` with the actual path to the project directory.
+3. Run the following command:
+   ```
+   streamlit run weather_app.py
+   ```
+4. After executing the command, the web application will start running locally.
+5. Open your web browser and go to the provided URL (typically `http://localhost:8501`).
+6. Enter the name of a city in the text input field and click the "Get Weather Forecast" button to retrieve and display the weather forecast.
 
 ## API Configuration
 
@@ -64,7 +69,7 @@ To use the OpenWeatherMap API, you need to obtain an API key. Follow these steps
 
 - The tool currently supports fetching weather data for a single city at a time.
 - It relies on the accuracy and availability of the OpenWeatherMap API.
-- The visibility data is provided in kilometers, and the dew point is in Celsius.
+
 
 ## Contributing
 
