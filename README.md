@@ -13,14 +13,9 @@ This command-line tool and web application provide the current weather forecast 
 
 ## Installation
 
-1. Clone the repository:
+ Clone the repository:
    ```
-   git clone https://github.com/your-username/weather-forecast-tool.git
-   ```
-
-2. Navigate to the project directory:
-   ```
-   cd weather-forecast-tool
+   git clone https://github.com/harshit-sharma1256/Weather_app-for-techgig.git
    ```
 
 ## Requirements
