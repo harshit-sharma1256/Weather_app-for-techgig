@@ -69,11 +69,5 @@ To use the OpenWeatherMap API, you need to obtain an API key. Follow these steps
 ## Contributing
 
 Contributions are welcome! If you have any suggestions, improvements, or bug fixes, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to customize the content as per your project's specifics. The above README.md file provides an overview of the tool, installation instructions, usage guidelines, API configuration details, limitations, and information on contributing and licensing.
+## Contact
+Email me - harshit2531937@gmail.com
