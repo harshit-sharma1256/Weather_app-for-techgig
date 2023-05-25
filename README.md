@@ -5,7 +5,7 @@ This command-line tool and web application provide the current weather forecast 
 ## Features
 
 - Retrieves the current weather forecast for a specified city.
-- Displays weather information including main weather, description, temperature, humidity, wind speed, visibility, and dew point.
+- Displays weather information including main weather, description, temperature, humidity, and wind speed.
 - Handles incorrect city names and provides appropriate error messages.
 - Utilizes the OpenWeatherMap API for fetching weather data.
 - Supports both command-line and web application interfaces.
