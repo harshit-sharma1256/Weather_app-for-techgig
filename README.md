@@ -1,1 +1,1 @@
-# Weather_app-for-techgig
+# Weather_app-using-github-copilot
