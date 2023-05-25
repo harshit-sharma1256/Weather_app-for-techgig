@@ -85,17 +85,17 @@ To use the OpenWeatherMap API, you need to obtain an API key. Follow these steps
 
 Here are three sample output images from the Weather Forecast Tool:
 
-1. Weather forecast for New York City:
+1. Weather forecast for Bharatpur City:
 
-   ![New York City](https://example.com/new_york_city.png)
+   ![Bharatpur City](https://github.com/harshit-sharma1256/Weather_app-for-techgig/blob/9eb70595307567cbbfb60a525d1e68135614d765/op1.png)
 
-2. Weather forecast for London:
+2. Weather forecast for Rio:
 
-   ![London](https://example.com/london.png)
+   ![Rio](https://github.com/harshit-sharma1256/Weather_app-for-techgig/blob/9eb70595307567cbbfb60a525d1e68135614d765/op2.png)
 
-3. Weather forecast for Sydney:
+3. Weather forecast for Wrong city entered:
 
-   ![Sydney](https://example.com/sydney.png)
+   ![Wrong city](https://github.com/harshit-sharma1256/Weather_app-for-techgig/blob/9eb70595307567cbbfb60a525d1e68135614d765/op3.png)
 
 ## Contributing
 
