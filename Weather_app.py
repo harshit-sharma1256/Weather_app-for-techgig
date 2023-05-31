@@ -25,7 +25,7 @@ def get_api_key():
 
 #Wrtting function for retrieve weather data for a specified city using the OpenWeatherMap API
 def get_weather_forecast(city):
-    api_key = get_api_key  # Getting your OpenWeatherMap API key
+    api_key = get_api_key()  # Getting your OpenWeatherMap API key
     base_url = 'https://api.openweathermap.org/data/2.5/weather'
     response = requests.get(base_url, params={'q': city, 'appid': api_key})
 
