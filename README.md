@@ -58,7 +58,8 @@ To use the OpenWeatherMap API, you need to obtain an API key. Follow these steps
 1. Go to the [OpenWeatherMap website](https://openweathermap.org/) and create an account.
 2. After logging in, navigate to your account dashboard and find the API keys section.
 3. Generate a new API key and copy it.
-4. Open the `weather_app.py` file and replace `'YOUR_API_KEY'` with your actual API key.
+4. Create a file named `config.txt` in the project directory.
+5. Open the `config.txt` file and paste the API key on the first line.
 
 ## Limitations
 
