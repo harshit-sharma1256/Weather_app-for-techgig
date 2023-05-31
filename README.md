@@ -26,9 +26,10 @@ Make sure the following libraries are installed in your Python environment:
 - json
 - requests
 
-You can install these libraries by running the following command:
+You can install these libraries by running the following commandS:
 ```
 pip install streamlit json requests
+pip install -r requirements.txt
 ```
 
 ## Usage
